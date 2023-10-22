@@ -15,4 +15,4 @@ To build the final version of the app, run this command. The resulting executabl
 `$ npm run build`
 Note: If you are a receiving an error like this "error:0308010C:digital envelope routines::unsupported", then before running any npm run commands, run set NODE_OPTIONS=--openssl-legacy-provider in Command Prompt on Windows or export NODE_OPTIONS=--openssl-legacy-provider on Linux.
 
-### Note 2: if you do not wish to build from source go to the releases tab and install solar tweaks, from there.
+### Note 2: if you do not wish to build from source, go to the releases tab and install solar tweaks from there (windows only). 
