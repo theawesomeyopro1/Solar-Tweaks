@@ -1,7 +1,7 @@
 ### Building from source
 Solar Tweaks is fully open-source, allowing for users to obtain the source code and make their own modifications. To do so, the repository can be cloned using the command:
 
-`$ git clone https://github.com/Solar-Tweaks/Solar-Tweaks.git`
+`$ git clone https://github.com/theawesomeyopro1/Solar-Tweaks.git`
 Once the repository is downloaded, navigate to the directory and install the necessary dependencies using the commands:
 
 `$ cd Solar-Tweaks`
