@@ -1,14 +1,15 @@
-𝐖͟𝐞͟𝐥͟𝐜͟𝐨͟𝐦͟𝐞͟ ͟𝐭͟𝐨͟ ͟𝐒͟𝐨͟𝐥͟𝐚͟𝐫͟ ͟𝐓͟𝐰͟𝐞͟𝐚͟𝐤͟𝐬͟ ͟𝐆͟𝐢͟𝐭͟𝐇͟𝐮͟𝐛͟ 👋
+### Building from source
+Solar Tweaks is fully open-source, allowing for users to obtain the source code and make their own modifications. To do so, the repository can be cloned using the command:
 
-Here at Solar Tweaks, we allow users to modify the Lunar Client code to enable freelook, remove pinned servers and TONS more!
+`$ git clone https://github.com/Solar-Tweaks/Solar-Tweaks.git`
+Once the repository is downloaded, navigate to the directory and install the necessary dependencies using the commands:
 
+`$ cd Solar-Tweaks`
+`$ npm install`
+For development purposes, run this command to build the app and start it. Hot reload is included for easier development and testing.
 
-𝐖͟𝐡͟𝐚͟𝐭͟ ͟𝐝͟𝐨͟ ͟𝐰͟𝐞͟ ͟𝐡͟𝐚͟𝐯͟𝐞͟ ͟𝐭͟𝐨͟ ͟𝐢͟𝐦͟𝐩͟𝐫͟𝐨͟𝐯͟𝐞͟ ͟𝐲͟𝐨͟𝐮͟𝐫͟ ͟𝐠͟𝐚͟𝐦͟𝐢͟𝐧͟𝐠͟ ͟𝐞͟𝐱͟𝐩͟𝐞͟𝐫͟𝐢͟𝐞͟𝐧͟𝐜͟𝐞͟?͟✨
+`$ npm run serve`
+To build the final version of the app, run this command. The resulting executables, installers, etc. will be located in the dist directory.
 
-● A complete new launcher for Lunar Client with more exciting features
-
-● Ways to customize the game and unlock features blocked by servers and remove useless features
-
-● Fully open source project
-
-● And much more coming soon!
+`$ npm run build`
+Note: If you are a receiving an error like this "error:0308010C:digital envelope routines::unsupported", then before running any npm run commands, run set NODE_OPTIONS=--openssl-legacy-provider in Command Prompt on Windows or export NODE_OPTIONS=--openssl-legacy-provider on Linux.
