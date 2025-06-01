@@ -1,6 +1,6 @@
 # Solar Tweaks
 
-## 🚧 Building from Source (Not recommended because its not tested, use release tab instead)
+## 🚧 Building from Source
 
 Solar Tweaks is fully open-source, allowing you to download the source code and customize it as you like.
 
