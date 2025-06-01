@@ -1,0 +1,112 @@
+{
+    "modules": {
+        "accurateReachDisplay": {
+            "isEnabled": true
+        },
+        "allowCrackedAccounts": {
+            "isEnabled": false,
+            "crackedUsername": "OrphanSnatcher64"
+        },
+        "capeSystem": {
+            "isEnabled": false,
+            "serverURL": "http://s.optifine.net"
+        },
+        "changeModStrings": {
+            "isEnabled": false,
+            "cpsText": "CPS",
+            "fpsText": "FPS",
+            "levelHeadText": "Level",
+            "nickhiderText": "You",
+            "reachText": "blocks"
+        },
+        "clothCapes": {
+            "isEnabled": false
+        },
+        "discordRichPresence": {
+            "isEnabled": true,
+            "afkText": "AFK",
+            "clientID": "920998351430901790",
+            "displayActivity": true,
+            "icon": "logo",
+            "iconText": "Solar Tweaks",
+            "menuText": "In Menu",
+            "showIcon": true,
+            "showServerIP": true,
+            "singlePlayerText": "Playing Singleplayer"
+        },
+        "fpsSpoof": {
+            "isEnabled": false,
+            "multiplier": 1
+        },
+        "lunarOverlays": {
+            "isEnabled": true
+        },
+        "metadata": {
+            "isEnabled": true,
+            "removeBlogPosts": true,
+            "removeClientSettings": true,
+            "removeModSettings": true,
+            "removePinnedServers": true,
+            "removeServerIntegration": true
+        },
+        "metadataURL": {
+            "isEnabled": false,
+            "metadataURL": "https://api.lunarclientprod.com/game/metadata"
+        },
+        "noHitDelay": {
+            "isEnabled": false
+        },
+        "privacy": {
+            "isEnabled": true
+        },
+        "rawInput": {
+            "isEnabled": true
+        },
+        "removeFakeLevelHead": {
+            "isEnabled": true
+        },
+        "removeMousePopup": {
+            "isEnabled": true
+        },
+        "removeProfilesCap": {
+            "isEnabled": true
+        },
+        "removeStoreButton": {
+            "isEnabled": true
+        },
+        "showAllThemes": {
+            "isEnabled": true
+        },
+        "toggleSprintText": {
+            "isEnabled": false,
+            "descendingText": "",
+            "dismountingText": "",
+            "flyingBoostText": "",
+            "flyingText": "",
+            "ridingText": "",
+            "sneakingText": "",
+            "sprintingText": "",
+            "toggledText": ""
+        },
+        "traversalEmotes": {
+            "isEnabled": true
+        },
+        "trollLogo": {
+            "isEnabled": true
+        },
+        "websocketURL": {
+            "isEnabled": false,
+            "url": "wss://"
+        },
+        "windowTitle": {
+            "isEnabled": true,
+            "showVersion": false,
+            "title": "Minecraft 1.8.9"
+        }
+    },
+    "customCommands": {
+        "commands": {
+            "uhc1": "/play duels_uhc_duel"
+        }
+    }
+}
